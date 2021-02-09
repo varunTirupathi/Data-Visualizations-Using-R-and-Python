@@ -19,7 +19,7 @@ library(ggpubr) # provides some easy-to-use functions for creating and customizi
 library(PerformanceAnalytics) # Econometric tools for performance and risk analysis
 library(plotrix) # getting many sorts of specialized plots
 #loading dataset
-master_air_crash_df <- read_csv("C:\\Althaf\\Year II\\Big Data Project\\Project II\\Airplane_Crashes_and_Fatalities_Since_1908_20190820105639\\Airplane_Crashes_and_Fatalities_Since_1908_20190820105639.csv")
+master_air_crash_df <- read_csv("C:\\varun\\Year II\\Big Data Project\\Project II\\Airplane_Crashes_and_Fatalities_Since_1908_20190820105639\\Airplane_Crashes_and_Fatalities_Since_1908_20190820105639.csv")
 
 
 air_crash_df = master_air_crash_df
